@@ -1,0 +1,35 @@
+/*
+* {
+    padding: 0;
+} 
+*/
+
+body {
+    height: 100%;
+    width: 100%;
+}
+
+.p-0 {
+    padding: 0;
+}
+
+.carousel-control-next-icon, .carousel-control-prev-icon {
+    height: 40px;
+    width: 40px;
+}
+
+.indent {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.authorization, .authorization:hover {
+    color: black;
+}
+
+.previous-page, .previous-page:hover {
+    color: black;
+}
+
